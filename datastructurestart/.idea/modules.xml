@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/datastructurestart.iml" filepath="$PROJECT_DIR$/datastructurestart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure-start.iml" filepath="$PROJECT_DIR$/datastructure-start.iml" />
     </modules>
   </component>
 </project>
